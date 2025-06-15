@@ -11,7 +11,7 @@ From the [ECI registration committee page](https://register.eci.ec.europa.eu/org
 
 We need a minimum of 7 organisers, but it makes sense to have one from each EU country, which makes 27 in total. 
 
-Please fill out (https://forms.gle/aeZfdRq1GeAkSQoJ7) if you want to join! 
+Please fill out [this Google form](https://forms.gle/aeZfdRq1GeAkSQoJ7) if you want to join. 
 
 - Austria
 - Belgium
