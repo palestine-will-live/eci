@@ -1,9 +1,18 @@
 # Objectives
 
-We call on the European Commission to propose a legal act proposing the temporary suspension of the Euro-Mediterranean Association Agreement with Israel (L 147/3 - 2000) based on its non-compliance with Article 2, which establishes respect for human rights principles as an essential element.
+## Suspension of EU-Israel Association Agreement until Palestinian Rights Recognition and International Law Compliance
 
-The proposed suspension would remain in effect until: (a) a verifiable ceasefire is implemented and maintained; (b) full humanitarian access is restored in accordance with international humanitarian law; and (c) concrete steps are taken to ensure compliance with international humanitarian law and human rights standards.
+We call on the European Commission to propose temporary suspension of the Euro-Mediterranean Association Agreement with Israel based on non-compliance with Article 2's human rights requirements.
 
-This measure aligns with the EU's legal obligation to ensure respect for human rights in its external relations. The suspension would serve as a diplomatic tool to protect civilian populations and restore compliance with international law, while maintaining humanitarian cooperation provisions.
+The suspension would remain until: 
 
-The Commission has legal authority to propose such action under Articles 206-207 TFEU regarding common commercial policy, in conjunction with Article 2 of the Association Agreement.
+(a) verifiable ceasefire maintained per UN resolutions; 
+(b) full humanitarian access restored; 
+(c) compliance with international humanitarian law in Gaza, West Bank, and East Jerusalem; 
+(d) progress toward Palestinian self-determination within pre-1967 territories; 
+(e) cessation of settlement expansion per UNSC Resolution 2334; 
+(f) restoration of Palestinian freedom of movement.
+
+This aligns with EU foundational values under TEU Articles 2 and 21. The measure serves as proportionate diplomatic tool encouraging international law compliance while maintaining humanitarian cooperation and supporting meaningful peace process.
+
+Legal authority: TFEU Articles 206-207 and Association Agreement Article 2.
