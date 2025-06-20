@@ -1,18 +1,20 @@
 # Objectives
 
-## Suspension of EU-Israel Association Agreement until Palestinian Rights Recognition and International Law Compliance
+## Suspension of EU-Israel Association Agreement until International Law Compliance
 
-We call on the European Commission to propose temporary suspension of the Euro-Mediterranean Association Agreement with Israel based on non-compliance with Article 2's human rights requirements.
+The European Commission is invited to propose temporary suspension of the Euro-Mediterranean Association Agreement with Israel pursuant to Article 60 of the Vienna Convention and Article 2 of the Association Agreement.
 
-The suspension would remain until: 
+**Legal Basis:** Material breach of essential elements provision requiring respect for human rights.
 
-(a) verifiable ceasefire maintained per UN resolutions; 
-(b) full humanitarian access restored; 
-(c) compliance with international humanitarian law in Gaza, West Bank, and East Jerusalem; 
-(d) progress toward Palestinian self-determination within pre-1967 territories; 
-(e) cessation of settlement expansion per UNSC Resolution 2334; 
-(f) restoration of Palestinian freedom of movement.
+**Conditions for Restoration:**
+(a) Sustainable ceasefire per UN Security Council resolutions;
+(b) Humanitarian access restoration per international humanitarian law;
+(c) International humanitarian law compliance in Occupied Palestinian Territory;
+(d) Settlement cessation per UN Resolution 2334 (2016);
+(e) Palestinian freedom of movement restoration.
 
-This aligns with EU foundational values under TEU Articles 2 and 21. The measure serves as proportionate diplomatic tool encouraging international law compliance while maintaining humanitarian cooperation and supporting meaningful peace process.
+**Treaty Authority:** Articles 206-207 TFEU and Association Agreement Article 2.
 
-Legal authority: TFEU Articles 206-207 and Association Agreement Article 2.
+**Precedent:** EU suspended agreements for violations (Belarus 2012, Myanmar 1997-2013).
+
+**International Obligations:** ICJ provisional measures (26 January 2024) create binding Genocide Convention obligations for States to prevent genocide.
