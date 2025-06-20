@@ -73,6 +73,11 @@ Article 60 of the [Vienna Convention on the Law of Treaties](https://legal.un.or
 
 ### Evidence of Systematic Violations
 
+**Protection of Civilians:** Systematic violations include targeting of protected persons under international humanitarian law:
+- Over 200 journalists killed in violation of Geneva Convention protections
+- 11 foreign humanitarian workers killed despite protected status
+- Diplomatic personnel attacked in Jenin, breaching Vienna Convention obligations
+  
 **International Court of Justice:** Provisional measures order (26 January 2024) found plausible violations of Genocide Convention, creating third-party obligations to employ available measures including trade instruments.
 
 **UN Documentation:** [Security Council Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf) determined settlement activities constitute "flagrant violation of international law." [UN OCHA reports](https://www.ochaopt.org/) document humanitarian access below 200 trucks daily versus pre-October 2023 baseline of 500+.
