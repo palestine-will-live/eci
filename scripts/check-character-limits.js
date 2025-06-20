@@ -41,14 +41,14 @@ console.log('================================');
 
 // Check objectives.md (1100 char limit without spaces)
 const objectivesPass = checkFile(
-  'registration/objectives.md', 
+  'objectives.md', 
   1100, 
   'Objectives'
 );
 
 // Check annex.md (5000 char limit without spaces)
 const annexPass = checkFile(
-  'registration/annex.md', 
+  'annex.md', 
   5000, 
   'Annex'
 );

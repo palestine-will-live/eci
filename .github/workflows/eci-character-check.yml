@@ -3,14 +3,14 @@ name: ECI Character Limit Check
 on:
   pull_request:
     paths:
-      - "registration/objectives.md"
-      - "registration/annex.md"
+      - "objectives.md"
+      - "annex.md"
   push:
     branches:
       - main
     paths:
-      - "registration/objectives.md"
-      - "registration/annex.md"
+      - "objectives.md"
+      - "annex.md"
 
 jobs:
   check-character-limits:
@@ -65,14 +65,14 @@ jobs:
 
           // Check objectives.md (1100 char limit without spaces)
           const objectivesPass = checkFile(
-            'registration/objectives.md', 
+            'objectives.md', 
             1100, 
             'Objectives'
           );
 
           // Check annex.md (5000 char limit without spaces)
           const annexPass = checkFile(
-            'registration/annex.md', 
+            'annex.md', 
             5000, 
             'Annex'
           );
@@ -105,12 +105,12 @@ jobs:
             let comment = '## ❌ ECI Character Limit Check Failed\n\n';
 
             // Check objectives.md
-            if (fs.existsSync('registration/objectives.md')) {
-              const objectivesContent = fs.readFileSync('registration/objectives.md', 'utf8');
+            if (fs.existsSync('objectives.md')) {
+              const objectivesContent = fs.readFileSync('objectives.md', 'utf8');
               const objectivesCount = countCharsWithoutSpaces(objectivesContent);
               if (objectivesCount > 1100) {
                 const excess = objectivesCount - 1100;
-                comment += `### 📄 Objectives (registration/objectives.md)\n`;
+                comment += `### 📄 Objectives (objectives.md)\n`;
                 comment += `- **Current:** ${objectivesCount} characters (without spaces)\n`;
                 comment += `- **Limit:** 1,100 characters\n`;
                 comment += `- **⚠️ Over limit by:** ${excess} characters\n\n`;
@@ -118,12 +118,12 @@ jobs:
             }
 
             // Check annex.md
-            if (fs.existsSync('registration/annex.md')) {
-              const annexContent = fs.readFileSync('registration/annex.md', 'utf8');
+            if (fs.existsSync('annex.md')) {
+              const annexContent = fs.readFileSync('annex.md', 'utf8');
               const annexCount = countCharsWithoutSpaces(annexContent);
               if (annexCount > 5000) {
                 const excess = annexCount - 5000;
-                comment += `### 📄 Annex (registration/annex.md)\n`;
+                comment += `### 📄 Annex (annex.md)\n`;
                 comment += `- **Current:** ${annexCount} characters (without spaces)\n`;
                 comment += `- **Limit:** 5,000 characters\n`;
                 comment += `- **⚠️ Over limit by:** ${excess} characters\n\n`;
@@ -136,9 +136,9 @@ jobs:
             comment += '💡 **Tip:** You can check character counts locally by running:\n';
             comment += '```bash\n';
             comment += '# For objectives.md\n';
-            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'registration/objectives.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n\n';
+            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'objectives.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n\n';
             comment += '# For annex.md\n';
-            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'registration/annex.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n';
+            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'annex.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n';
             comment += '```';
 
             github.rest.issues.createComment({
