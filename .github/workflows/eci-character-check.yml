@@ -5,15 +5,15 @@ on:
     paths:
       - "objectives.md"
       - "annex.md"
-      - ".github/workflows/*.yml" # Also trigger when workflow changes
+      - ".github/workflows/*.yml"
   push:
     branches:
       - main
     paths:
       - "objectives.md"
       - "annex.md"
-      - ".github/workflows/*.yml" # Also trigger when workflow changes
-  workflow_dispatch: # Allow manual triggering for testing
+      - ".github/workflows/*.yml"
+  workflow_dispatch:
 
 jobs:
   check-character-limits:
@@ -26,7 +26,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # Updated to more recent version
+          node-version: "20"
 
       - name: Debug - List files
         run: |
