@@ -19,7 +19,7 @@ This ECI seeks temporary suspension of **trade provisions** of the [Euro-Mediter
 
 **UN Determinations:** [Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf) established violations affecting legitimate trade relations.
 
-**Geneva Conventions:** Documented violations breach obligations integral to Agreement conditionality.
+**Geneva Conventions:** Documented violations breach obligations integral to Agreement conditionality, including systematic targeting of protected persons - over 200 journalists killed, 11 foreign humanitarian workers killed by IDF operations, and diplomatic personnel shot at in Jenin.
 
 ## EU Commercial Policy Precedent
 

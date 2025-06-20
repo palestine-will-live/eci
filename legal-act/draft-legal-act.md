@@ -42,11 +42,13 @@ Acting in accordance with the ordinary legislative procedure,
 
 (10) The current humanitarian situation documented by UN agencies demonstrates systematic violations affecting over 2 million civilians, undermining the essential elements upon which preferential trade treatment is conditioned.
 
-(11) The principle of proportionality requires that Union commercial policy measures be appropriate and necessary to achieve legitimate objectives, going no further than required while maintaining effectiveness.
+(11) Systematic violations of international humanitarian law include targeting of protected persons under Geneva Convention protections, with over 200 journalists killed, 11 foreign humanitarian workers killed by IDF operations, and attacks on diplomatic personnel in Jenin, demonstrating comprehensive breach of civilian protection obligations essential to the Agreement's commercial framework.
 
-(12) Temporary suspension of trade provisions serves as a legitimate commercial policy instrument to maintain agreement integrity and encourage compliance with essential elements while preserving humanitarian cooperation.
+(12) The principle of proportionality requires that Union commercial policy measures be appropriate and necessary to achieve legitimate objectives, going no further than required while maintaining effectiveness.
 
-(13) Such commercial measures ultimately serve the interests of rules-based international trade by ensuring preferential treatment remains conditional on respect for fundamental values as explicitly agreed in Article 2.
+(13) Temporary suspension of trade provisions serves as a legitimate commercial policy instrument to maintain agreement integrity and encourage compliance with essential elements while preserving humanitarian cooperation.
+
+(14) Such commercial measures ultimately serve the interests of rules-based international trade by ensuring preferential treatment remains conditional on respect for fundamental values as explicitly agreed in Article 2.
 
 ## HAS ADOPTED THIS DECISION:
 
