@@ -5,12 +5,15 @@ on:
     paths:
       - "objectives.md"
       - "annex.md"
+      - ".github/workflows/*.yml" # Also trigger when workflow changes
   push:
     branches:
       - main
     paths:
       - "objectives.md"
       - "annex.md"
+      - ".github/workflows/*.yml" # Also trigger when workflow changes
+  workflow_dispatch: # Allow manual triggering for testing
 
 jobs:
   check-character-limits:
@@ -23,7 +26,18 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "20" # Updated to more recent version
+
+      - name: Debug - List files
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Files in root:"
+          ls -la
+          echo "objectives.md exists:" 
+          test -f objectives.md && echo "YES" || echo "NO"
+          echo "annex.md exists:"
+          test -f annex.md && echo "YES" || echo "NO"
 
       - name: Check ECI Character Limits
         run: |
@@ -48,20 +62,20 @@ jobs:
             
             console.log(\`\n📄 \${fileName}:\`);
             console.log(\`   File: \${filePath}\`);
-            console.log(\`   Characters (without spaces): \${charCount}\`);
-            console.log(\`   Limit: \${limit}\`);
-            console.log(\`   Remaining: \${remaining}\`);
+            console.log(\`   Characters (without spaces): \${charCount.toLocaleString()}\`);
+            console.log(\`   Limit: \${limit.toLocaleString()}\`);
             
             if (charCount <= limit) {
-              console.log(\`   ✅ PASS - Under limit by \${remaining} characters\`);
+              console.log(\`   ✅ PASS - Under limit by \${remaining.toLocaleString()} characters\`);
               return true;
             } else {
-              console.log(\`   ❌ FAIL - Over limit by \${Math.abs(remaining)} characters\`);
+              console.log(\`   ❌ FAIL - Over limit by \${Math.abs(remaining).toLocaleString()} characters\`);
               return false;
             }
           }
 
           console.log('🔍 Checking ECI character limits...');
+          console.log('Current working directory:', process.cwd());
 
           // Check objectives.md (1100 char limit without spaces)
           const objectivesPass = checkFile(
@@ -88,6 +102,7 @@ jobs:
             process.exit(1);
           } else {
             console.log(\`\n✅ All character limits passed!\`);
+            console.log(\`Ready for ECI submission! 🎉\`);
           }
           "
 
@@ -103,17 +118,19 @@ jobs:
             }
 
             let comment = '## ❌ ECI Character Limit Check Failed\n\n';
+            let hasFailures = false;
 
             // Check objectives.md
             if (fs.existsSync('objectives.md')) {
               const objectivesContent = fs.readFileSync('objectives.md', 'utf8');
               const objectivesCount = countCharsWithoutSpaces(objectivesContent);
               if (objectivesCount > 1100) {
+                hasFailures = true;
                 const excess = objectivesCount - 1100;
                 comment += `### 📄 Objectives (objectives.md)\n`;
-                comment += `- **Current:** ${objectivesCount} characters (without spaces)\n`;
+                comment += `- **Current:** ${objectivesCount.toLocaleString()} characters (without spaces)\n`;
                 comment += `- **Limit:** 1,100 characters\n`;
-                comment += `- **⚠️ Over limit by:** ${excess} characters\n\n`;
+                comment += `- **⚠️ Over limit by:** ${excess.toLocaleString()} characters\n\n`;
               }
             }
 
@@ -122,28 +139,35 @@ jobs:
               const annexContent = fs.readFileSync('annex.md', 'utf8');
               const annexCount = countCharsWithoutSpaces(annexContent);
               if (annexCount > 5000) {
+                hasFailures = true;
                 const excess = annexCount - 5000;
                 comment += `### 📄 Annex (annex.md)\n`;
-                comment += `- **Current:** ${annexCount} characters (without spaces)\n`;
+                comment += `- **Current:** ${annexCount.toLocaleString()} characters (without spaces)\n`;
                 comment += `- **Limit:** 5,000 characters\n`;
-                comment += `- **⚠️ Over limit by:** ${excess} characters\n\n`;
+                comment += `- **⚠️ Over limit by:** ${excess.toLocaleString()} characters\n\n`;
               }
             }
 
-            comment += '### 📝 Next Steps\n';
-            comment += 'Please reduce the character count in the failing file(s). ';
-            comment += 'Remember that the limits are for characters **without spaces**.\n\n';
-            comment += '💡 **Tip:** You can check character counts locally by running:\n';
-            comment += '```bash\n';
-            comment += '# For objectives.md\n';
-            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'objectives.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n\n';
-            comment += '# For annex.md\n';
-            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'annex.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n';
-            comment += '```';
+            if (hasFailures) {
+              comment += '### 📝 Next Steps\n';
+              comment += 'Please reduce the character count in the failing file(s). ';
+              comment += 'Remember that the limits are for characters **without spaces**.\n\n';
+              comment += '💡 **Tip:** You can check character counts locally by running:\n';
+              comment += '```bash\n';
+              comment += 'node scripts/check-character-limits.js\n';
+              comment += '```\n\n';
+              comment += 'Or check individual files:\n';
+              comment += '```bash\n';
+              comment += '# For objectives.md\n';
+              comment += 'node -e \"console.log(require(\\'fs\\').readFileSync(\\'objectives.md\\', \\'utf8\\').replace(/\\\\s/g, \\'\\').length)\"\n\n';
+              comment += '# For annex.md\n';
+              comment += 'node -e \"console.log(require(\\'fs\\').readFileSync(\\'annex.md\\', \\'utf8\\').replace(/\\\\s/g, \\'\\').length)\"\n';
+              comment += '```';
 
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: comment
-            });
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: comment
+              });
+            }
