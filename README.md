@@ -1,10 +1,10 @@
 # Suspend for Palestine ECI
 
-This repository serves as a public draft of the "**Suspension of EU-Israel Association Agreement until Palestinian Rights Recognition and International Law Compliance**" [European Citizens' Initiative](https://citizens-initiative.europa.eu/) (ECI). 
+This repository serves as a public draft of the "**Suspension of EU-Israel Association Agreement until International Law Compliance**" [European Citizens' Initiative](https://citizens-initiative.europa.eu/) (ECI). 
 
 An ECI enables at least one million EU citizens from at least seven different EU member states to invite the [European Commission](https://commission.europa.eu/) to propose legislation on matters where the EU has competence to legislate.
 
-This **"Suspend for Palestine"** ECI calls for temporary suspension of the [Euro-Mediterranean Association Agreement with Israel](https://eeas.europa.eu/archives/delegations/israel/documents/eu_israel/asso_agree_en.pdf) based on non-compliance with Article 2's human rights requirements. The ECI is currently under collaborative development.
+This ECI calls for temporary suspension of the [Euro-Mediterranean Association Agreement with Israel](https://eeas.europa.eu/archives/delegations/israel/documents/eu_israel/asso_agree_en.pdf) based on material breach of Article 2's essential elements provision requiring respect for human rights.
 
 ## Key Documents
 
@@ -16,19 +16,52 @@ This **"Suspend for Palestine"** ECI calls for temporary suspension of the [Euro
 
 ## Legal Framework
 
-The suspension would remain until six cumulative conditions are met: (a) verifiable ceasefire maintained per [UN resolutions](https://www.un.org/securitycouncil/content/resolutions-0); (b) full humanitarian access restored; (c) compliance with [international humanitarian law](https://www.icrc.org/en/war-and-law/treaties-customary-law/geneva-conventions) in Gaza, West Bank, and East Jerusalem; (d) progress toward Palestinian self-determination within pre-1967 territories; (e) cessation of settlement expansion per [UNSC Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf); (f) restoration of Palestinian freedom of movement.
+**Primary Authority:** Article 60 of the Vienna Convention on the Law of Treaties permits suspension when one party materially breaches essential treaty provisions. Article 2 of the EU-Israel Association Agreement establishes respect for human rights as an "essential element" conditioning all Agreement provisions.
 
-This measure aligns with EU foundational values under [TEU Articles 2 and 21](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012M%2FTXT), serving as a proportionate diplomatic tool while maintaining humanitarian cooperation and supporting meaningful peace processes.
+**Treaty Basis:** [TEU Articles 2 and 21](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012M%2FTXT) establish human rights as foundational EU values, while [TFEU Articles 206-207](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012E%2FTXT) provide common commercial policy competence.
+
+**International Obligations:** ICJ provisional measures of 26 January 2024 create binding obligations under the Genocide Convention for third-party States to prevent genocide using available legal means.
+
+**Established Precedent:** EU has suspended association agreements for essential elements violations (Belarus 2012, Myanmar 1997-2013), demonstrating consistent legal practice.
+
+## Suspension Conditions
+
+The suspension would remain until verified compliance with: (a) sustainable ceasefire per [UN Security Council resolutions](https://www.un.org/securitycouncil/content/resolutions-0); (b) humanitarian access restoration per [international humanitarian law](https://www.icrc.org/en/war-and-law/treaties-customary-law/geneva-conventions); (c) compliance with Geneva Conventions in Occupied Palestinian Territory; (d) cessation of settlement expansion per [UNSC Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf); (e) restoration of Palestinian freedom of movement per international humanitarian law.
 
 ## Implementation Path
 
-For successful implementation, this ECI must gather a **minimum of 1 million statements of support** from EU citizens across **at least seven different member countries**. Once validated, the European Commission would be invited to propose the suspension measure.
+**Qualified Majority Voting:** Following ECI validation with **1 million signatures** across **seven member states**, the [Council](https://www.consilium.europa.eu/) decides using **55% of member states** (15 out of 27) representing **65% of EU population**.
 
-The [Council](https://www.consilium.europa.eu/) would then decide using **Qualified Majority Voting (QMV)**, requiring at least **55% of EU member states** (currently 15 out of 27 countries) that represent **at least 65% of the EU's population**. This threshold appears achievable given growing European concern over the humanitarian situation and increasing support for accountability measures.
+**Legal Basis:** Established treaty provisions and EU precedent provide clear authority for such measures when essential elements are systematically violated.
 
-## Motivation
+## Proportionality
 
-The suspension of the [EU-Israel Association Agreement](https://eeas.europa.eu/archives/delegations/israel/documents/eu_israel/asso_agree_en.pdf) could have significant impact in encouraging compliance with international law and supporting Palestinian rights. The structured ECI process provides a democratic pathway for European citizens to influence EU foreign policy on matters of fundamental human rights and international law compliance.
+The suspension maintains humanitarian cooperation, consular relations, and medical assistance while addressing systematic non-compliance with binding legal obligations. Clear restoration conditions ensure the measure serves as diplomatic instrument encouraging international law compliance.
+
+## Character Limit Validation
+
+This ECI must comply with strict character limits for submission:
+- **Objectives:** Maximum 1,100 characters (without spaces)
+- **Annex:** Maximum 5,000 characters (without spaces)
+
+### Check Character Limits Locally
+
+To verify compliance before submitting:
+
+```bash
+# Make script executable (first time only)
+chmod +x scripts/check-character-limits.js
+
+# Run the validation script
+node scripts/check-character-limits.js
+```
+
+### Automated Validation
+
+Character limits are automatically checked on:
+- ✅ Pull requests modifying `registration/objectives.md` or `registration/annex.md`
+- ✅ Pushes to main branch
+- ❌ Builds will fail if limits are exceeded
 
 ## How to Contribute
 
@@ -38,10 +71,13 @@ We welcome contributions to improve this ECI. Please follow these contribution p
 - Create a branch from this issue (from main branch)
 - Fetch locally
 - Edit files
+- **Run character limit check:** `node scripts/check-character-limits.js`
 - Commit changes
 - Push to repository
 - Create [pull request](https://github.com/palestine-will-live/eci/pulls)
 - Request review
+
+**Note:** Pull requests that exceed character limits will automatically fail CI checks.
 
 ## Join as ECI Organiser
 
