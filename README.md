@@ -15,6 +15,24 @@ This ECI calls for temporary suspension of trade and commercial provisions of th
 
 **ECI Registration URL:** https://register.eci.ec.europa.eu/organisers/#/wizard/proposed
 
+## Current EU Context: Why This ECI is Timely
+
+**May 2025 Breakthrough:** On May 20, 2025, [17 of 27 EU member states voted](https://www.euronews.com/my-europe/2025/05/20/eu-to-review-its-trade-and-cooperation-with-israel-over-gaza-offensive) to review Article 2 of the EU-Israel Association Agreement, assessing Israel's compliance with human rights obligations. This represents the first official EU institutional step toward potential suspension.
+
+**The Gap This ECI Fills:** While the institutional review is ongoing, it faces critical limitations:
+- **No concrete timeline** for action beyond endless consultations
+- **Political resistance** already emerging, with officials stating suspension is ["unlikely" due to regional conflicts](https://www.euronews.com/my-europe/2025/06/18/exclusive-iran-conflict-to-derail-eu-review-of-israeli-association-agreement)
+- **Lack of specific restoration conditions** and measurable benchmarks
+- **Risk of unanimity requirements** if treated as foreign policy rather than commercial policy
+
+**This ECI's Strategic Advantage:** Our initiative provides what the institutional process lacks:
+- **Direct citizen mandate** requiring Commission response within legal deadlines
+- **Commercial Policy framework** (Article 207 TFEU) ensuring qualified majority voting
+- **Precise restoration conditions** with quantitative metrics (500 trucks daily, settlement halt verification, etc.)
+- **Legal certainty** through established precedent (Belarus 2012, Myanmar sanctions)
+
+**Perfect Timing:** The institutional review validates concerns about Article 2 violations while demonstrating the need for citizen pressure to ensure concrete action. This ECI converts growing institutional momentum into binding commercial policy measures.
+
 ## Legal Framework
 
 **Primary Authority:** Article 60 of the Vienna Convention on the Law of Treaties permits suspension when one party materially breaches essential treaty provisions. Article 2 of the EU-Israel Association Agreement establishes respect for human rights as an "essential element" conditioning all trade benefits.
