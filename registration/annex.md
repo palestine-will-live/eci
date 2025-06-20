@@ -1,66 +1,71 @@
 # Annex on the Subject, Objectives and Background to the Initiative
 
-## Legal Framework and Treaty Basis
+## Legal Framework and Commercial Policy Basis
 
-This European Citizens' Initiative seeks temporary suspension of the [Euro-Mediterranean Association Agreement with Israel](https://eeas.europa.eu/archives/delegations/israel/documents/eu_israel/asso_agree_en.pdf) based on material breach of Article 2 essential elements provision.
+This ECI seeks temporary suspension of **trade provisions** of the [Euro-Mediterranean Association Agreement with Israel](https://eeas.europa.eu/archives/delegations/israel/documents/eu_israel/asso_agree_en.pdf) based on material breach of Article 2 essential elements provision.
 
 **Primary Legal Authority:**
-- **Vienna Convention on the Law of Treaties, Article 60:** Material breach by one party entitles the other to suspend treaty operation
-- **Association Agreement, Article 2:** Establishes respect for human rights as "essential element" conditioning all provisions
-- **[TFEU Articles 206-207](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012E%2FTXT):** Common commercial policy competence
-- **[TEU Articles 2, 21](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012M%2FTXT):** Foundational values and external action principles
+- **[Article 207 TFEU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12012E%2FTXT):** EU exclusive competence for Common Commercial Policy (qualified majority voting)
+- **Vienna Convention Article 60:** Material breach entitles treaty suspension
+- **Association Agreement Article 2:** Human rights as "essential element" conditioning trade benefits
 
-## Material Breach of Essential Elements
+## Material Breach Affecting Trade Relations
 
-**Article 2 Violation:** The Association Agreement explicitly conditions relations on "respect for human rights and democratic principles, which guides their internal and international policy and constitutes an essential element of this Agreement."
+**Article 2 Violation:** Agreement conditions **preferential trade** on "respect for human rights and democratic principles" as "essential element."
 
-**International Court of Justice Determination:** ICJ provisional measures order of 26 January 2024 in South Africa v. Israel found allegations of Genocide Convention violations plausible, creating binding third-party State obligations to prevent genocide using available legal means.
+**Commercial Impact:** Systematic breaches undermine conditions for preferential access, requiring proportionate commercial response.
 
-**UN Security Council Findings:** [Resolution 2334 (2016)](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf) determined settlement activities constitute "flagrant violation of international law."
+**ICJ Measures:** Provisional measures (26/01/2024) found Genocide Convention violations plausible, creating obligations to employ available **trade instruments**.
 
-**Geneva Conventions Obligations:** Systematic violations of [international humanitarian law](https://www.icrc.org/en/war-and-law/treaties-customary-law/geneva-conventions) in Occupied Palestinian Territory documented by [UN agencies](https://www.un.org/securitycouncil/content/resolutions-0) constitute breaches of binding legal obligations.
+**UN Determinations:** [Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf) established violations affecting legitimate trade relations.
 
-## Established EU Precedent
+**Geneva Conventions:** Documented violations breach obligations integral to Agreement conditionality.
 
-**Consistent Practice:** EU has suspended association agreements for essential elements violations:
-- Belarus (2012): Human rights violations
-- Myanmar (1997-2013): Democratic principles violations
-- Various targeted sanctions for systematic breaches
+## EU Commercial Policy Precedent
 
-**Legal Doctrine:** EU Common Approach on political clauses (2009) explicitly provides for suspension when essential elements are systematically violated.
+**Consistent Practice:** EU suspended **trade provisions** for essential elements violations:
+- Belarus (2012): Trade benefits suspended under Commercial Policy
+- Myanmar (1997-2013): Trade restrictions for violations
+- GSP+ withdrawals: Trade preferences suspended
 
-## Economic Context
+**Legal Doctrine:** EU implements trade conditionality through Commercial Policy instruments requiring only qualified majority per Article 207 TFEU.
 
-**Trade Relationship:** EU-Israel bilateral trade totaled €47.9 billion in 2022, representing 28.8% of Israel's merchandise trade, making EU Israel's largest trading partner.
+## Economic and Commercial Context
 
-**Association Benefits:** Agreement provides Israel preferential market access, reduced tariffs, participation in EU programs, and enhanced political dialogue.
+**Trade Relationship:** EU-Israel trade €47.9 billion (2022), EU represents 28.8% of Israel's trade.
 
-## Suspension Conditions
+**Preferential Benefits:** Duty-free industrial access, reduced agricultural tariffs, origin cumulation - **advantages conditional on Article 2**.
 
-Restoration of full Agreement application upon verified compliance with:
+**Commercial Measure:** Targets trade provisions within EU competence, maintaining humanitarian cooperation.
 
-1. **Ceasefire Implementation:** Sustainable cessation of hostilities per [UN Security Council resolutions](https://www.un.org/securitycouncil/content/resolutions-0)
-2. **Humanitarian Access:** Full restoration per [international humanitarian law](https://www.icrc.org/en/war-and-law/treaties-customary-law/geneva-conventions)
-3. **International Law Compliance:** Concrete compliance with Geneva Conventions in Occupied Palestinian Territory
-4. **Settlement Cessation:** Complete halt per [UN Security Council Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf)
-5. **Freedom of Movement:** Restoration of Palestinian movement rights per international humanitarian law
+## Precise Suspension Conditions
 
-## Proportionality and Safeguards
+Trade restoration upon verified compliance:
 
-**Limited Scope:** Suspension excludes humanitarian cooperation, consular relations, medical assistance, and civilian protection programs.
+1. **Ceasefire:** UN Security Council verification with benchmarks
+2. **Humanitarian:** Pre-October 2023 levels per OCHA (500 trucks daily)
+3. **IHL:** ICRC Geneva Conventions verification
+4. **Settlements:** Complete halt per OSCE/Resolution 2334
+5. **Movement:** Restrictions removal per UN Special Rapporteur
 
-**Temporary Nature:** Conditional suspension with clear restoration pathway upon compliance demonstration.
+**Verification:** International monitoring using quantitative metrics.
 
-**Monitoring Framework:** Objective assessment by established international bodies ensures transparent evaluation of compliance progress.
+## Proportionality
 
-## Legal Necessity
+**Limited Scope:** Only **trade provisions** suspended. Humanitarian, consular, civilian cooperation continues.
 
-**Treaty Obligations:** EU bound by foundational values under TEU Articles 2 and 21 requiring consistent human rights promotion in external relations.
+**Temporary Measure:** Time-limited with review mechanism ensuring proportionality.
 
-**International Law Compliance:** Genocide Convention obligations following ICJ provisional measures require EU to employ available legal means to prevent violations.
+**Clear Restoration:** Precise conditions using international standards.
 
-**Institutional Consistency:** Suspension maintains coherence with established EU practice of conditioning trade relationships on compliance with fundamental legal obligations.
+## Legal Basis for Commercial Action
 
-**Precedential Authority:** Vienna Convention Article 60 provides clear legal basis for suspension when essential treaty elements are materially breached.
+**Article 207 TFEU:** EU **exclusive competence** over Commercial Policy including trade suspension (qualified majority applies).
 
-This measure serves as proportionate diplomatic instrument encouraging international law compliance while preserving possibility of full relationship restoration upon demonstrated adherence to binding legal obligations.
+**Commercial Conditionality:** EU consistently applies human rights conditions to trade benefits through commercial instruments.
+
+**Legal Obligations:** ICJ measures and Genocide Convention require States employ available instruments - **trade measures within EU competence**.
+
+**Precedential Consistency:** Follows established practice conditioning trade access on essential elements compliance.
+
+This constitutes proportionate **commercial policy response** to material breach of trade agreement conditionality, preserving restoration upon verified compliance.

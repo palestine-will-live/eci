@@ -1,10 +1,10 @@
 # PROPOSAL FOR A COUNCIL DECISION
 
-**on the temporary suspension of certain provisions of the Euro-Mediterranean Association Agreement establishing an association between the European Communities and their Member States, of the one part, and the State of Israel, of the other part**
+**on the temporary suspension of trade and commercial provisions of the Euro-Mediterranean Association Agreement establishing an association between the European Communities and their Member States, of the one part, and the State of Israel, of the other part**
 
 ## THE COUNCIL OF THE EUROPEAN UNION,
 
-Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 206 and 207 thereof,
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 207 thereof concerning the Common Commercial Policy,
 
 Having regard to the Treaty on European Union, and in particular Articles 2 and 21 thereof,
 
@@ -22,64 +22,88 @@ Acting in accordance with the ordinary legislative procedure,
 
 ## Whereas:
 
-(1) Article 2 of the Euro-Mediterranean Association Agreement with Israel establishes that relations between the parties "shall be based on respect for human rights and democratic principles, which guides their internal and international policy and constitutes an essential element of this Agreement."
+(1) Article 2 of the Euro-Mediterranean Association Agreement with Israel establishes that relations between the parties "shall be based on respect for human rights and democratic principles, which guides their internal and international policy and constitutes an essential element of this Agreement," thereby conditioning preferential trade treatment on compliance with fundamental values.
 
-(2) Article 60 of the Vienna Convention on the Law of Treaties provides that a material breach of a bilateral treaty by one of the parties entitles the other to invoke the breach as a ground for suspending the treaty's operation in whole or in part.
+(2) The Agreement's trade and commercial provisions, including preferential tariffs, market access, and economic cooperation, are subject to the essential elements clause, creating enforceable conditionality within the Common Commercial Policy framework.
 
-(3) The European Union has established consistent practice that association agreements may be suspended when essential elements, particularly human rights provisions, are systematically violated.
+(3) Article 60 of the Vienna Convention on the Law of Treaties provides that a material breach of a bilateral treaty by one of the parties entitles the other to invoke the breach as a ground for suspending the treaty's operation in whole or in part.
 
-(4) The International Court of Justice, in its order of 26 January 2024 in South Africa v. Israel, found allegations of violations of the Genocide Convention to be plausible and ordered provisional measures.
+(4) The European Union exercises exclusive competence over Common Commercial Policy pursuant to Article 207 TFEU, including authority to suspend trade provisions of association agreements through qualified majority voting when essential elements are breached.
 
-(5) Under Article 1 of the Genocide Convention, contracting parties confirm that genocide constitutes a crime under international law which they undertake to prevent and punish.
+(5) The International Court of Justice, in its order of 26 January 2024 in South Africa v. Israel, found allegations of violations of the Genocide Convention to be plausible and ordered provisional measures.
 
-(6) International humanitarian law, as codified in the Geneva Conventions of 1949, establishes binding obligations for the protection of civilians in armed conflict, including the prohibition of collective punishment and the duty to ensure humanitarian access.
+(6) Under Article 1 of the Genocide Convention, contracting parties confirm that genocide constitutes a crime under international law which they undertake to prevent and punish, including through available commercial policy instruments.
 
-(7) United Nations Security Council Resolution 2334 (2016) determined that Israeli settlements in Palestinian territory occupied since 1967 constitute a flagrant violation of international law.
+(7) The European Union has established consistent practice of suspending trade provisions and preferential treatment when essential elements are systematically violated, as demonstrated in the Belarus (2012) suspension of trade benefits under Common Commercial Policy.
 
-(8) The current situation in the Occupied Palestinian Territory has resulted in extensive civilian casualties and humanitarian crisis, raising serious concerns regarding compliance with international humanitarian law.
+(8) International humanitarian law, as codified in the Geneva Conventions of 1949, establishes binding obligations for the protection of civilians in armed conflict, violations of which affect the integrity of preferential trade relationships.
 
-(9) The principle of proportionality requires that Union measures be appropriate and necessary to achieve legitimate objectives, going no further than required.
+(9) United Nations Security Council Resolution 2334 (2016) determined that Israeli settlements in Palestinian territory occupied since 1967 constitute a flagrant violation of international law, affecting the legitimate basis for preferential trade relations.
 
-(10) Temporary suspension serves as a legitimate diplomatic instrument to encourage compliance with international legal obligations while preserving the possibility of full restoration upon demonstrated compliance.
+(10) The current humanitarian situation documented by UN agencies demonstrates systematic violations affecting over 2 million civilians, undermining the essential elements upon which preferential trade treatment is conditioned.
 
-(11) Such measures ultimately serve the long-term interests of all parties by promoting adherence to international law, thereby contributing to regional stability and Israel's integration into the international legal order.
+(11) The principle of proportionality requires that Union commercial policy measures be appropriate and necessary to achieve legitimate objectives, going no further than required while maintaining effectiveness.
+
+(12) Temporary suspension of trade provisions serves as a legitimate commercial policy instrument to maintain agreement integrity and encourage compliance with essential elements while preserving humanitarian cooperation.
+
+(13) Such commercial measures ultimately serve the interests of rules-based international trade by ensuring preferential treatment remains conditional on respect for fundamental values as explicitly agreed in Article 2.
 
 ## HAS ADOPTED THIS DECISION:
 
-### Article 1 - Suspension
+### Article 1 - Suspension of Trade and Commercial Provisions
 
-The application of the Euro-Mediterranean Association Agreement establishing an association between the European Communities and their Member States, of the one part, and the State of Israel, of the other part, is hereby temporarily suspended, with the exception of provisions relating to humanitarian cooperation, consular relations, and civilian protection.
+1. The following trade and commercial provisions of the Euro-Mediterranean Association Agreement with Israel are hereby temporarily suspended:
+   (a) Title II - Free movement of goods (Articles 6-22)
+   (b) Title III - Right of establishment and supply of services (Articles 29-34)
+   (c) Title IV - Payments, capital, competition and other economic provisions (Articles 35-47)
+   (d) Protocol 4 on cumulation of origin
 
-### Article 2 - Conditions for lifting suspension
+2. The following provisions shall remain in force:
+   (a) Provisions relating to humanitarian cooperation and assistance
+   (b) Consular and diplomatic relations
+   (c) Medical cooperation and civilian protection measures
 
-The suspension shall be lifted when the following conditions are cumulatively verified by competent international monitoring bodies:
+### Article 2 - Conditions for Lifting Suspension
 
-(a) Implementation of a sustainable ceasefire in accordance with United Nations Security Council resolutions;
+The suspension of trade and commercial provisions shall be lifted when the following conditions are verified through established international monitoring mechanisms:
 
-(b) Restoration of humanitarian access in accordance with international humanitarian law;
+(a) Implementation of ceasefire verified by UN Security Council monitoring mechanisms with specific benchmarks;
 
-(c) Demonstrable compliance with international humanitarian law in the Occupied Palestinian Territory;
+(b) Restoration of humanitarian access to pre-October 2023 levels as measured by UN OCHA metrics (minimum 500 trucks daily);
 
-(d) Cessation of settlement activities in compliance with United Nations Security Council Resolution 2334 (2016);
+(c) Demonstrable compliance with Geneva Conventions verified through ICRC monitoring protocols;
 
-(e) Restoration of freedom of movement for Palestinians in accordance with international humanitarian law.
+(d) Complete cessation of settlement construction activities verified by UN OSCE monitoring per Resolution 2334;
 
-### Article 3 - Monitoring and assessment
+(e) Removal of movement restrictions verified by UN Special Rapporteur using established movement indicators.
 
-The Commission shall monitor compliance with the conditions set out in Article 2, taking into account reports from United Nations agencies and relevant international organizations.
+### Article 3 - Monitoring and Assessment
 
-The Commission shall report to the Council every six months on progress toward meeting the specified conditions.
+1. The Commission shall monitor compliance with the conditions set out in Article 2, using quantitative metrics and reports from:
+   (a) United Nations Security Council monitoring bodies
+   (b) UN Office for the Coordination of Humanitarian Affairs
+   (c) International Committee of the Red Cross
+   (d) UN Special Rapporteur on the situation of human rights in the Palestinian territories
 
-### Article 4 - Safeguard provisions
+2. The Commission shall report to the Council every three months on progress toward meeting the specified conditions using objective, measurable indicators.
+
+### Article 4 - Safeguard Provisions
 
 This Decision shall not affect:
-(a) Humanitarian assistance programs;
+(a) Humanitarian assistance programs and emergency relief operations;
 (b) Consular and diplomatic relations;
-(c) Medical cooperation and emergency assistance.
+(c) Medical cooperation and emergency assistance;
+(d) Academic and scientific cooperation serving civilian purposes;
+(e) Existing contractual obligations entered into before the date of this Decision.
 
-### Article 5 - Review clause
+### Article 5 - Review Clause
 
-The Council shall review this Decision within eighteen months of its entry into force and may decide to maintain, modify, or terminate the suspension.
+1. The Council shall review this Decision within twelve months of its entry into force.
+
+2. The Council, acting by qualified majority on a proposal from the Commission, may decide to:
+   (a) Maintain the suspension if conditions remain unfulfilled;
+   (b) Modify the scope of suspended provisions based on partial compliance;
+   (c) Terminate the suspension upon verification of full compliance with Article 2 conditions.
 
 ### Article 6 - Entry into force
 
@@ -94,20 +118,38 @@ The President
 
 ## EXPLANATORY MEMORANDUM
 
-### 1. Legal Basis and Necessity
+### 1. Legal Basis and Commercial Policy Competence
 
-This proposal implements established EU legal doctrine regarding association agreements. Article 2 of the EU-Israel Association Agreement explicitly conditions the relationship on respect for human rights as an "essential element." The Vienna Convention on the Law of Treaties provides clear legal authority for suspension in cases of material breach of essential provisions.
+This proposal implements European Union exclusive competence over Common Commercial Policy pursuant to Article 207 TFEU. The suspension of trade provisions falls squarely within commercial policy, requiring only qualified majority voting in Council.
 
-The International Court of Justice's provisional measures order creates additional legal obligations under the Genocide Convention. As a contracting party, the EU has binding obligations to prevent genocide using available legal means.
+The measure addresses material breach of Article 2 essential elements provision which explicitly conditions preferential trade treatment on human rights respect. This creates enforceable commercial conditionality within the Association Agreement's trade framework.
 
-### 2. Precedent and Consistency
+Article 60 of the Vienna Convention provides established international law authority for proportionate treaty suspension following material breach of essential provisions. The measure targets only trade and commercial provisions while maintaining humanitarian cooperation.
 
-The EU has suspended association agreements with Belarus (2012), Myanmar (1997-2013), and imposed sanctions on numerous states for human rights violations. This measure maintains consistency with established EU practice of conditioning trade relationships on compliance with fundamental legal obligations.
+### 2. International Legal Obligations
 
-### 3. Proportionality
+The International Court of Justice provisional measures of 26 January 2024 create binding obligations under the Genocide Convention. Article I requires contracting parties to prevent genocide using available means. Trade instruments within EU competence constitute such available means for fulfilling international obligations.
 
-The suspension is temporary, conditional, and limited in scope. Essential humanitarian, consular, and medical cooperation continues uninterrupted. The measure serves legitimate diplomatic objectives and provides clear pathways for restoration of full relations.
+United Nations determinations, including Security Council Resolution 2334, establish systematic violations affecting the integrity of preferential trade relations. Documented breaches of Geneva Conventions further demonstrate material non-compliance with Agreement conditionality.
 
-### 4. Implementation
+### 3. Precedent and Commercial Policy Consistency
 
-Monitoring relies on established international bodies, ensuring objective assessment. Six-monthly reporting provides regular review without administrative burden. The eighteen-month review clause ensures proportionality over time.
+The EU suspended trade provisions with Belarus (2012) under Common Commercial Policy for essential elements violations, establishing clear precedent for utilizing Article 207 TFEU competence. Similar trade measures applied to Myanmar (1997-2013) and through GSP+ withdrawals demonstrate consistent practice.
+
+This measure maintains institutional coherence by applying established commercial policy instruments to enforce human rights conditionality explicitly agreed in trade agreements. The approach ensures legal certainty while respecting EU competence allocation.
+
+### 4. Proportionality and Precision
+
+The suspension targets only trade and commercial provisions while maintaining all humanitarian, consular, and civilian cooperation. This surgical approach ensures proportionality between breach severity and response measures.
+
+Restoration conditions utilize precise, measurable criteria verified through established international monitoring mechanisms. Quantitative benchmarks (e.g., 500 daily humanitarian trucks) provide objective compliance assessment avoiding subjective interpretation.
+
+The twelve-month review mechanism with graduated response options ensures ongoing proportionality assessment and flexibility based on compliance progress.
+
+### 5. Implementation Mechanism
+
+Council decision-making proceeds under Article 207(4) TFEU through qualified majority voting (55% of Member States representing 65% of EU population). This ensures efficient decision-making within established Common Commercial Policy procedures.
+
+Monitoring relies on recognized international bodies already conducting systematic assessment, minimizing additional administrative burden while ensuring objective evaluation. Quarterly reporting enables responsive adjustment based on verified compliance progress.
+
+The measure preserves existing contractual obligations and provides legal certainty for economic operators while addressing systematic breach of agreement conditionality.
