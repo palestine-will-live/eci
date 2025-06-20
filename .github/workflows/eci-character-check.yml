@@ -1,0 +1,149 @@
+name: ECI Character Limit Check
+
+on:
+  pull_request:
+    paths:
+      - "registration/objectives.md"
+      - "registration/annex.md"
+  push:
+    branches:
+      - main
+    paths:
+      - "registration/objectives.md"
+      - "registration/annex.md"
+
+jobs:
+  check-character-limits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Check ECI Character Limits
+        run: |
+          node -e "
+          const fs = require('fs');
+
+          // Function to count characters without spaces
+          function countCharsWithoutSpaces(text) {
+            return text.replace(/\s/g, '').length;
+          }
+
+          // Function to check file and report results
+          function checkFile(filePath, limit, fileName) {
+            if (!fs.existsSync(filePath)) {
+              console.log(\`❌ \${fileName} file not found at \${filePath}\`);
+              return false;
+            }
+            
+            const content = fs.readFileSync(filePath, 'utf8');
+            const charCount = countCharsWithoutSpaces(content);
+            const remaining = limit - charCount;
+            
+            console.log(\`\n📄 \${fileName}:\`);
+            console.log(\`   File: \${filePath}\`);
+            console.log(\`   Characters (without spaces): \${charCount}\`);
+            console.log(\`   Limit: \${limit}\`);
+            console.log(\`   Remaining: \${remaining}\`);
+            
+            if (charCount <= limit) {
+              console.log(\`   ✅ PASS - Under limit by \${remaining} characters\`);
+              return true;
+            } else {
+              console.log(\`   ❌ FAIL - Over limit by \${Math.abs(remaining)} characters\`);
+              return false;
+            }
+          }
+
+          console.log('🔍 Checking ECI character limits...');
+
+          // Check objectives.md (1100 char limit without spaces)
+          const objectivesPass = checkFile(
+            'registration/objectives.md', 
+            1100, 
+            'Objectives'
+          );
+
+          // Check annex.md (5000 char limit without spaces)
+          const annexPass = checkFile(
+            'registration/annex.md', 
+            5000, 
+            'Annex'
+          );
+
+          console.log(\`\n📊 Summary:\`);
+          console.log(\`   Objectives: \${objectivesPass ? '✅ PASS' : '❌ FAIL'}\`);
+          console.log(\`   Annex: \${annexPass ? '✅ PASS' : '❌ FAIL'}\`);
+
+          if (!objectivesPass || !annexPass) {
+            console.log(\`\n❌ Character limit check failed!\`);
+            console.log(\`Please reduce character count in the failing file(s).\`);
+            console.log(\`\nRemember: Limits are for characters WITHOUT spaces.\`);
+            process.exit(1);
+          } else {
+            console.log(\`\n✅ All character limits passed!\`);
+          }
+          "
+
+      - name: Comment on PR (if limits exceeded)
+        if: failure() && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            function countCharsWithoutSpaces(text) {
+              return text.replace(/\s/g, '').length;
+            }
+
+            let comment = '## ❌ ECI Character Limit Check Failed\n\n';
+
+            // Check objectives.md
+            if (fs.existsSync('registration/objectives.md')) {
+              const objectivesContent = fs.readFileSync('registration/objectives.md', 'utf8');
+              const objectivesCount = countCharsWithoutSpaces(objectivesContent);
+              if (objectivesCount > 1100) {
+                const excess = objectivesCount - 1100;
+                comment += `### 📄 Objectives (registration/objectives.md)\n`;
+                comment += `- **Current:** ${objectivesCount} characters (without spaces)\n`;
+                comment += `- **Limit:** 1,100 characters\n`;
+                comment += `- **⚠️ Over limit by:** ${excess} characters\n\n`;
+              }
+            }
+
+            // Check annex.md
+            if (fs.existsSync('registration/annex.md')) {
+              const annexContent = fs.readFileSync('registration/annex.md', 'utf8');
+              const annexCount = countCharsWithoutSpaces(annexContent);
+              if (annexCount > 5000) {
+                const excess = annexCount - 5000;
+                comment += `### 📄 Annex (registration/annex.md)\n`;
+                comment += `- **Current:** ${annexCount} characters (without spaces)\n`;
+                comment += `- **Limit:** 5,000 characters\n`;
+                comment += `- **⚠️ Over limit by:** ${excess} characters\n\n`;
+              }
+            }
+
+            comment += '### 📝 Next Steps\n';
+            comment += 'Please reduce the character count in the failing file(s). ';
+            comment += 'Remember that the limits are for characters **without spaces**.\n\n';
+            comment += '💡 **Tip:** You can check character counts locally by running:\n';
+            comment += '```bash\n';
+            comment += '# For objectives.md\n';
+            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'registration/objectives.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n\n';
+            comment += '# For annex.md\n';
+            comment += 'node -e "console.log(require(\'fs\').readFileSync(\'registration/annex.md\', \'utf8\').replace(/\\s/g, \'\').length)"\n';
+            comment += '```';
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: comment
+            });
