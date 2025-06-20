@@ -9,8 +9,9 @@ This ECI calls for temporary suspension of trade and commercial provisions of th
 ## Key Documents
 
 - [Draft Legal Act](https://github.com/palestine-will-live/eci/blob/main/legal-act/draft-legal-act.md)
-- [Objectives](https://github.com/palestine-will-live/eci/blob/main/registration/objectives.md)
-- [Annex - Subject, Objectives and Background](https://github.com/palestine-will-live/eci/blob/main/registration/annex.md)
+- [Objectives](https://github.com/palestine-will-live/eci/blob/main/objectives.md)
+- [Annex - Subject, Objectives and Background](https://github.com/palestine-will-live/eci/blob/main/annex.md)
+- [Additional Information](https://github.com/palestine-will-live/eci/blob/main/additional-information/additional-information.md)
 
 **ECI Registration URL:** https://register.eci.ec.europa.eu/organisers/#/wizard/proposed
 
@@ -74,7 +75,7 @@ node scripts/check-character-limits.js
 ### Automated Validation
 
 Character limits are automatically checked on:
-- ✅ Pull requests modifying `registration/objectives.md` or `registration/annex.md`
+- ✅ Pull requests modifying `objectives.md` or `annex.md`
 - ✅ Pushes to main branch
 - ❌ Builds will fail if limits are exceeded
 
@@ -96,7 +97,7 @@ We welcome contributions to improve this ECI. Please follow these contribution p
 
 ## Join as ECI Organiser
 
-If you wish to join as an ECI organiser, please review [this document](https://github.com/palestine-will-live/eci/blob/main/registration/organisers.md) for requirements and procedures.
+If you wish to join as an ECI organiser, please review [this document](https://github.com/palestine-will-live/eci/blob/main/organisers.md) for requirements and procedures.
 
 ## Repository Maintenance
 
