@@ -15,7 +15,18 @@ This ECI calls for temporary suspension of trade and commercial provisions of th
 
 **ECI Registration URL:** https://register.eci.ec.europa.eu/organisers/#/wizard/proposed
 
-## Current EU Context: Why This ECI is Timely
+## Strategy Overview
+
+This ECI uses a focused approach designed for maximum impact and feasibility:
+
+- **Narrow scope:** Suspend only trade provisions while maintaining humanitarian aid and cooperation
+- **Easier passage:** Use trade law (Article 207 TFEU) requiring only qualified majority (15/27 countries), avoiding single-country vetoes
+- **Comprehensive conditions:** Beyond ceasefire, require measurable humanitarian access, settlement halt, and international law compliance
+- **Long-term framework:** Establish precedent that trade benefits depend on human rights respect
+
+This strategy leverages EU trade policy—where the EU is strongest and unity is easier—rather than foreign policy where unanimity requirements enable blocking.
+
+## Current EU Context
 
 **May 2025 Breakthrough:** On May 20, 2025, [17 of 27 EU member states voted](https://www.euronews.com/my-europe/2025/05/20/eu-to-review-its-trade-and-cooperation-with-israel-over-gaza-offensive) to review Article 2 of the EU-Israel Association Agreement, assessing Israel's compliance with human rights obligations. This represents the first official EU institutional step toward potential suspension.
 
@@ -31,7 +42,7 @@ This ECI calls for temporary suspension of trade and commercial provisions of th
 - **Precise restoration conditions** with quantitative metrics (500 trucks daily, settlement halt verification, etc.)
 - **Legal certainty** through established precedent (Belarus 2012, Myanmar sanctions)
 
-**Perfect Timing:** The institutional review validates concerns about Article 2 violations while demonstrating the need for citizen pressure to ensure concrete action. This ECI converts growing institutional momentum into binding commercial policy measures.
+The institutional review validates concerns about Article 2 violations while demonstrating the need for citizen pressure to ensure concrete action. This ECI converts growing institutional momentum into binding commercial policy measures.
 
 ## Legal Framework
 
@@ -47,11 +58,11 @@ This ECI calls for temporary suspension of trade and commercial provisions of th
 
 The suspension of trade provisions would remain until verified compliance with:
 
-(a) Ceasefire implementation verified by UN monitoring bodies
-(b) Humanitarian access restored to pre-October 2023 levels (minimum 500 trucks daily)
-(c) Geneva Conventions compliance verified by ICRC
-(d) Settlement construction halt verified per UNSC Resolution 2334
-(e) Movement restrictions removal verified by UN Special Rapporteur
+- (a) Ceasefire implementation verified by UN monitoring bodies
+- (b) Humanitarian access restored to pre-October 2023 levels (minimum 500 trucks daily)
+- (c) Geneva Conventions compliance verified by ICRC
+- (d) Settlement construction halt verified per UNSC Resolution 2334
+- (e) Movement restrictions removal verified by UN Special Rapporteur
 
 All conditions include precise, measurable metrics verified by established international monitoring bodies.
 
@@ -105,7 +116,7 @@ We welcome contributions to improve this ECI. Please follow these contribution p
 - Create a branch from this issue (from main branch)
 - Fetch locally
 - Edit files
-- **Run character limit check:** `node scripts/check-character-limits.js`
+- Run character limit check
 - Commit changes
 - Push to repository
 - Create [pull request](https://github.com/palestine-will-live/eci/pulls)
