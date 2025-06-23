@@ -51,6 +51,38 @@ The institutional review validates this ECI's premise—that Article 2 violation
 
 **Timeline Convergence:** The institutional review's findings (expected mid-2025) will provide additional documentation supporting this ECI's material breach argument, strengthening the legal case for trade provision suspension through Commercial Policy instruments.
 
+### Official EU Assessment Confirms Article 2 Violations (June 2025)
+
+**Institutional Validation:** The EU Special Representative for Human Rights' assessment of June 20, 2025 provides official documentation that "there are indications that Israel would be in breach of its human rights obligations under Article 2 of the EU-Israel Association Agreement."
+
+**Comprehensive Documentation:** The assessment details systematic breaches across multiple categories affecting the commercial relationship's integrity:
+
+**Gaza Operations:**
+- Collective punishment through blockade affecting 2.3 million civilians, violating IHL prohibition (GC IV Art. 33)
+- Indiscriminate attacks with 44% of verified deaths being children, indicating failure to comply with IHL principles of distinction
+- Systematic targeting of hospitals "in apparent systematic fashion" through direct strikes, sieges, and detention of medical staff
+- Mass displacement of 90% of Gaza's population, raising concerns about legality under GC IV Art. 49
+- Complete blockade for 11 weeks banning "any supplies, including food, medicine and fuel"
+- Targeting of over 200 journalists, possibly as direct targeting to limit information flow
+
+**West Bank Expansion:**
+- Settlement consolidation and expansion despite UNSC Resolution 2334
+- ICJ-identified violations including transfer of population, land confiscation, and forcible transfer of Palestinians
+- "De facto policy of colonisation" contributing to "discriminatory system amounting to segregation and oppression"
+- Systematic discrimination constituting racial segregation and apartheid (CERD Art. 3)
+
+**Accountability Deficit:** The assessment notes Israel's "persistent lack of accountability" and "refusal to provide access to any commission of inquiry, fact-finding mission or other investigative body mandated by the UN."
+
+**Commercial Policy Relevance:** These documented violations directly contravene Article 2 essential elements conditioning preferential trade treatment, providing clear commercial policy justification for suspension measures under Article 207 TFEU.
+
+**Gap Between Recognition and Action:** Despite official acknowledgment of systematic violations, the institutional process faces the same political limitations this ECI addresses - endless consultations without binding timelines or concrete measures. The assessment validates the ECI's premise while demonstrating why citizen pressure through Commercial Policy instruments is necessary for implementation.
+
+**Restoration Conditions Validation:** The EU assessment documents the specific violations that the ECI's restoration conditions are designed to remedy:
+- Humanitarian access restoration (500 trucks daily) addresses documented blockade
+- Geneva Conventions compliance addresses documented IHL violations
+- Settlement cessation addresses documented expansion activities
+- Movement restrictions removal addresses documented systematic obstacles
+
 ---
 
 ## I. Common Commercial Policy Foundation
