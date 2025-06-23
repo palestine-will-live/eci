@@ -19,6 +19,8 @@ This ECI seeks temporary suspension of **trade provisions** of the [Euro-Mediter
 
 **UN Determinations:** [Resolution 2334](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/463/27/PDF/N1646327.pdf) established violations affecting legitimate trade relations.
 
+**EU Official Assessment (June 2025):** EU Special Representative for Human Rights confirmed "indications that Israel would be in breach of its human rights obligations under Article 2," documenting systematic violations including collective punishment, indiscriminate attacks (44% of verified deaths being children), systematic hospital targeting, mass displacement (90% of population), and settlement expansion constituting apartheid practices - providing institutional validation of violations affecting trade relationship integrity.
+
 **Geneva Conventions:** Documented violations breach obligations integral to Agreement conditionality, including systematic targeting of protected persons - over 200 journalists killed, 11 foreign humanitarian workers killed by IDF operations, and diplomatic personnel shot at in Jenin.
 
 ## EU Commercial Policy Precedent

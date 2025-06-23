@@ -30,7 +30,9 @@ This strategy leverages EU trade policy—where the EU is strongest and unity is
 
 **May 2025 Breakthrough:** On May 20, 2025, [17 of 27 EU member states voted](https://www.euronews.com/my-europe/2025/05/20/eu-to-review-its-trade-and-cooperation-with-israel-over-gaza-offensive) to review Article 2 of the EU-Israel Association Agreement, assessing Israel's compliance with human rights obligations. This represents the first official EU institutional step toward potential suspension.
 
-**The Gap This ECI Fills:** While the institutional review is ongoing, it faces critical limitations:
+**June 2025 Official Assessment:** The EU Special Representative for Human Rights issued an official assessment on June 20, 2025, confirming "indications that Israel would be in breach of its human rights obligations under Article 2." This institutional validation documents systematic violations including collective punishment, indiscriminate attacks, systematic hospital targeting, mass displacement, and settlement expansion - strengthening the legal case for commercial policy measures.
+
+**The Gap This ECI Fills:** While the institutional review and official assessment validate Article 2 violations, they face critical limitations:
 - **No concrete timeline** for action beyond endless consultations
 - **Political resistance** already emerging, with officials stating suspension is ["unlikely" due to regional conflicts](https://www.euronews.com/my-europe/2025/06/18/exclusive-iran-conflict-to-derail-eu-review-of-israeli-association-agreement)
 - **Lack of specific restoration conditions** and measurable benchmarks
@@ -42,7 +44,7 @@ This strategy leverages EU trade policy—where the EU is strongest and unity is
 - **Precise restoration conditions** with quantitative metrics (500 trucks daily, settlement halt verification, etc.)
 - **Legal certainty** through established precedent (Belarus 2012, Myanmar sanctions)
 
-The institutional review validates concerns about Article 2 violations while demonstrating the need for citizen pressure to ensure concrete action. This ECI converts growing institutional momentum into binding commercial policy measures.
+The institutional review and official assessment validate concerns about Article 2 violations while demonstrating the need for citizen pressure to ensure concrete action. This ECI converts growing institutional momentum and official documentation into binding commercial policy measures, ensuring recognition translates into effective trade conditionality enforcement.
 
 ## Legal Framework
 
