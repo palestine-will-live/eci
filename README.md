@@ -20,11 +20,12 @@ This ECI calls for temporary suspension of trade and commercial provisions of th
 This ECI uses a focused approach designed for maximum impact and feasibility:
 
 - **Narrow scope:** Suspend only trade provisions while maintaining humanitarian aid and cooperation
-- **Easier passage:** Use trade law (Article 207 TFEU) requiring only qualified majority (15/27 countries), avoiding single-country vetoes
-- **Comprehensive conditions:** Beyond ceasefire, require measurable humanitarian access, settlement halt, and international law compliance
+- **Bypasses unanimity trap:** Use Article 207 TFEU (Common Commercial Policy) requiring only **qualified majority voting** (15/27 countries representing 65% of EU population) instead of the **unanimity requirement** that governs foreign policy
+- **Prevents single-country vetoes:** Unlike foreign policy decisions where any one member state can block action, trade policy decisions cannot be vetoed by individual countries
+- **Comprehensive conditions:** Beyond ceasefire, require measurable humanitarian access, settlement halt, and international law compliance  
 - **Long-term framework:** Establish precedent that trade benefits depend on human rights respect
 
-This strategy leverages EU trade policy—where the EU is strongest and unity is easier—rather than foreign policy where unanimity requirements enable blocking.
+This strategy leverages EU trade policy—where the EU is strongest and political unity is easier to achieve—rather than foreign policy where unanimity requirements have repeatedly enabled blocking by individual member states.
 
 ## Current EU Context
 
