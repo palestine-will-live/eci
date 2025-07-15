@@ -119,7 +119,10 @@
 ### EU-Israel Trade Statistics
 - **Bilateral Trade Volume (2022):** €47.9 billion
 - **Israel's Trade Dependency:** EU represents 28.8% of Israel's merchandise trade
+- **Investment Leadership:** EU is Israel's largest foreign investor with substantial European company stakes across Israeli sectors
+- **Economic Integration:** Deep commercial relationship through Association Agreement preferential treatment
 - **European Commission Trade Data** https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/israel_en
+- **SOMO Investment Research** https://www.somo.nl/economic-sanctions-eu-is-israel-largest-investor/
 
 ## Civil Society and Academic Resources
 
