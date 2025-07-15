@@ -47,6 +47,23 @@ This strategy leverages EU trade policy—where the EU is strongest and politica
 
 The institutional review and official assessment validate concerns about Article 2 violations while demonstrating the need for citizen pressure to ensure concrete action. This ECI converts growing institutional momentum and official documentation into binding commercial policy measures, ensuring recognition translates into effective trade conditionality enforcement.
 
+## July 15, 2025: Complementing Institutional Processes
+
+**Supporting EU Institutional Efforts:** The Foreign Affairs Council meeting of July 15, 2025, demonstrated the complexity of addressing Association Agreement compliance through traditional diplomatic channels. While EU institutions continue their important assessment work, this ECI provides a complementary pathway through Commercial Policy competence.
+
+**Bridging Institutional Gaps:** Foreign policy decisions requiring unanimity face inherent procedural challenges when addressing trade agreement violations. This ECI leverages Article 207 TFEU's qualified majority framework to support institutional efforts through Commercial Policy instruments specifically designed for trade conditionality enforcement.
+
+**Democratic Enhancement:** Building on the EU's official findings that raise concerns about Article 2 compliance, this citizen initiative provides additional democratic legitimacy to support institutional decision-making through established Commercial Policy procedures.
+
+**Why Article 207 TFEU Complements Institutional Work:**
+- **Qualified majority voting** aligns with Commercial Policy competence for trade measures
+- **Established precedent** follows EU practice in Belarus and Myanmar cases  
+- **Clear legal framework** supports institutional assessment with concrete implementation pathway
+- **Measurable conditions** provide objective criteria for restoration decisions
+- **Maintains humanitarian cooperation** while addressing commercial provisions
+
+**Institutional Cooperation:** This ECI works with, not against, EU institutional processes by providing the specific Commercial Policy mechanism needed to implement findings that trade agreement conditionality requires enforcement.
+
 ## Legal Framework
 
 **Primary Authority:** Article 60 of the Vienna Convention on the Law of Treaties permits suspension when one party materially breaches essential treaty provisions. Article 2 of the EU-Israel Association Agreement establishes respect for human rights as an "essential element" conditioning all trade benefits.

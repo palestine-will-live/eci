@@ -2,6 +2,59 @@
 
 ## Timeline of Recent Developments
 
+### July 15, 2025 - Foreign Affairs Council Seeks Additional Pathways
+- **Institutional Assessment:** Ministers reviewed comprehensive options for addressing Association Agreement compliance concerns
+- **Procedural Complexity:** Unanimity requirements for foreign policy measures present implementation challenges
+- **Ongoing Consultations:** EU institutions continue assessment of Article 2 compliance questions
+- **Complementary Approaches:** Need identified for additional legal pathways supporting institutional work
+- **Commercial Policy Potential:** Article 207 TFEU framework offers qualified majority alternative for trade-specific measures
+
+### Enhanced ECI Relevance
+
+#### Advantages
+1. **Institutional Support:** ECI provides Commercial Policy mechanism to implement institutional findings
+2. **Legal Complementarity:** Article 207 TFEU offers procedural alternative where foreign policy faces constraints
+3. **Democratic Addition:** Citizen mandate supplements institutional assessment with popular legitimacy
+4. **Implementation Pathway:** Concrete mechanism for trade conditionality enforcement
+5. **Procedural Efficiency:** Qualified majority voting supports institutional intentions
+6. **Legal Foundation:** Official EU assessment validates Article 2 compliance concerns
+
+#### Strategic Opportunities
+1. **Timing:** Launch while institutional momentum exists and need for implementation pathways is recognized
+2. **Framing:** Emphasize support for institutional work through Commercial Policy tools
+3. **Documentation:** Leverage institutional findings as evidence base for ECI
+4. **Public Support:** Convert institutional recognition into citizen demand for implementation
+5. **Gap Address:** Provide mechanism where procedural constraints limit institutional action
+
+### Next Institutional Milestones
+
+- **Late July 2025:** Follow-up on FAC discussions and pathway identification
+- **September 2025:** Potential Council decision on complementary approaches
+- **End 2025:** Article 79 consultation timeline (if initiated)
+- **2026:** Possible implementation decisions through various legal frameworks
+
+### Strategic Implications for ECI (Updated)
+
+#### Advantages
+1. **Complete validation of ECI necessity:** Institutional failure proves citizen initiative is only viable path
+2. **Peak public anger:** EU inaction despite documented violations creates maximum support
+3. **Enhanced legal argument:** Official violation findings with institutional refusal to act
+4. **Media attention:** FAC failure provides news hook for ECI launch
+5. **Political contrast:** ECI offers concrete solution where institutions failed
+6. **Timing perfection:** Launch immediately while failure is fresh in public mind
+
+#### Institutional Breakdown
+1. **Unanimity trap confirmed:** Single states can block all action despite majority support
+2. **Political cowardice documented:** EU prioritizes political comfort over legal obligations
+3. **Credibility crisis:** EU unable to enforce its own agreement conditions
+4. **Democratic deficit:** Institutions ignore citizen expectations for accountability
+
+#### ECI Strategic Response
+1. **Lead with FAC failure:** Open registration citing July 15 inaction as primary justification
+2. **Commercial policy emphasis:** Highlight Article 207 TFEU as only unanimity-free pathway
+3. **Citizen mandate necessity:** 1 million signatures provide democratic legitimacy institutions lack
+4. **Legal certainty:** Commercial policy prevents political manipulation enabling today's failure
+
 ### May 20, 2025 - EU Review Vote
 - **Result:** 17 of 27 member states support Article 2 review
 - **Key Players:** Dutch Foreign Minister Caspar Veldkamp (proposer), EU High Representative Kaja Kallas (supporter)
