@@ -2,19 +2,17 @@
 
 ## Suspension of Trade Provisions of EU-Israel Association Agreement for Essential Elements Breach
 
-The European Commission is invited to propose temporary suspension of trade and commercial provisions of the Euro-Mediterranean Association Agreement with Israel pursuant to Article 60 Vienna Convention and Article 2 Association Agreement.
+Following the European Commission's September 2025 finding that Israel has breached Article 2 essential elements of the Association Agreement, the Commission is invited to propose temporary suspension of trade and commercial provisions pursuant to Article 207 TFEU (Common Commercial Policy).
 
-**Legal Basis:** Material breach of Article 2 essential elements provision (human rights respect) affecting trade relations integrity.
+**Commercial Policy Legal Basis:** Material breach of Article 2 conditioning preferential trade treatment requires proportionate commercial response under exclusive EU competence (Articles 206-207 TFEU).
 
-**Conditions for Restoration:**
-(a) Ceasefire implementation verified by UN monitoring bodies;
-(b) Humanitarian access restored to pre-October 2023 levels per OCHA metrics;
+**Qualified Majority Implementation:** Commercial Policy measures require 15 of 27 member states representing 65% of EU population, avoiding unanimity requirements that block institutional proposals.
+
+**Restoration Conditions:**
+(a) Ceasefire verified by UN monitoring;
+(b) Humanitarian access restored to 500 trucks daily per OCHA;
 (c) Geneva Conventions compliance verified by ICRC;
-(d) Settlement construction halt verified per UNSC Resolution 2334;
+(d) Settlement halt verified per UNSC Resolution 2334;
 (e) Movement restrictions removal verified by UN Special Rapporteur.
 
-**EU Competence:** Articles 206-207 TFEU (Common Commercial Policy - qualified majority voting).
-
-**Precedent:** EU suspended trade provisions for essential elements violations (Belarus 2012).
-
-**Legal Obligations:** ICJ provisional measures (26/01/2024) require States prevent genocide through available means including trade measures.
+**EU Precedent:** Belarus trade suspension (2012) under Commercial Policy for essential elements violations.
